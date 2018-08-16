@@ -9,11 +9,11 @@
   "author": "Dušan Simić <dusan.simic1810@gmail.com> (http://dusansimic.me)",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.7",
     "electron-builder": "^20.28.1",
     "xo": "^0.22.0"
   },
   "dependencies": {
+    "electron": "^2.0.7",
     "electron-store": "^2.0.0",
     "showdown": "^1.8.6"
   },

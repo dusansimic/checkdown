@@ -33,6 +33,7 @@ function createMainWindow() {
 	});
 
 	win.loadFile(path.join(__dirname, 'index.html'));
+	win.setMenu(null);
 
 	win.on('before-close', () => {
 		if (!mainWindow.isFullScreen()) {
