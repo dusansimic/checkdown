@@ -1,7 +1,7 @@
 {
   "name": "checkdown",
   "productName": "Checkdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check your md file in seconds.",
   "main": "index.js",
   "bin": "index.js",
